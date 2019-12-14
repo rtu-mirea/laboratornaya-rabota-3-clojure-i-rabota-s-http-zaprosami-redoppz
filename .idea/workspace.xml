@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="505842f9-9672-4408-9da5-ae4f91ae40d0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DepsLocalSettings">
+    <option name="repoId" value="" />
+    <option name="repoUrl" value="" />
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TgjA3sk06JycdF7xIJG8PgR39Y" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Leiningen" />
+  </component>
+  <component name="ReplState" timestamp="1573901050360">{:repl-history {:ide [], :local [{:command &quot;+ 3 5&quot;, :offset 5, :ns &quot;user&quot;} {:command &quot;- 5 3&quot;, :offset 5, :ns &quot;user&quot;} {:command &quot;(+ 3 5)&quot;, :offset 7, :ns &quot;user&quot;} {:command &quot;(get-files)&quot;, :offset 11, :ns &quot;user&quot;} {:command &quot;(import metrics_server.api.files.clj)&quot;, :offset 37, :ns &quot;user&quot;} {:command &quot;(metrics_server.api.files.get-files ())&quot;, :offset 39, :ns &quot;user&quot;} {:command &quot;(get-metrics)&quot;, :offset 13, :ns &quot;user&quot;} {:command &quot;()&quot;, :offset 1} {:command &quot;(metrics_server.api.files/get-files)&quot;, :offset 36, :ns &quot;user&quot;} {:command &quot;(metrics_server.api.hardware/get-metrics)&quot;, :offset 41, :ns &quot;user&quot;} {:command &quot;(metrics-server.api.hardware/get-metrics)(metrics-server.api.hardware/get-metrics)(metrics-server.api.hardware/get-metrics)(metrics-server.api.hardware/get-metrics)&quot;, :offset 164, :ns &quot;user&quot;} {:command &quot;(metrics-server.api.hardware/get-metrics)&quot;, :offset 41, :ns &quot;user&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="REPL for metrics-server" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="metrics-server" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="NREPL" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure REPL.REPL for metrics-server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="505842f9-9672-4408-9da5-ae4f91ae40d0" name="Default Changelist" comment="" />
+      <created>1573888485940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573888485940</updated>
+    </task>
+    <servers />
+  </component>
+</project>
