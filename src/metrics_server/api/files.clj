@@ -23,7 +23,7 @@
 (defn second_task1 [files] (filter (fn [a] (not (get a :directory))) files))
 
 ;; Задание 2.2
-(defn second_task2 [files] (filter (fn [a] (= (get a :executable))) files))
+(defn second_task2 [files] (filter (fn [a] (= (get a :executable) false)) files))
 
 ;; Задание 2.3
 (defn second_task3 [files]
