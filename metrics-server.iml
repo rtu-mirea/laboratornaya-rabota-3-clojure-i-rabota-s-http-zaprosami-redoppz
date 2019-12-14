@@ -5,10 +5,10 @@
     <output-test url="file://$MODULE_DIR$/target/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://C:\Users\tseza\Desktop\laboratornaya-rabota-3-clojure-i-rabota-s-http-zaprosami-redoppz\resources" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-      <sourceFolder url="file://C:\Users\tseza\Desktop\laboratornaya-rabota-3-clojure-i-rabota-s-http-zaprosami-Alamart1683-master\dev-resources" isTestSource="false" />
-      <sourceFolder url="file://C:\Users\tseza\Desktop\laboratornaya-rabota-3-clojure-i-rabota-s-http-zaprosami-Alamart1683-master\resources" isTestSource="false" />
-      <sourceFolder url="file://C:\Users\tseza\Desktop\laboratornaya-rabota-3-clojure-i-rabota-s-http-zaprosami-Alamart1683-master\test" isTestSource="true" />
+      <sourceFolder url="file://C:\Users\tseza\Desktop\laboratornaya-rabota-3-clojure-i-rabota-s-http-zaprosami-redoppz\dev-resources" isTestSource="false" />
+      <sourceFolder url="file://C:\Users\tseza\Desktop\laboratornaya-rabota-3-clojure-i-rabota-s-http-zaprosami-redoppz\test" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
